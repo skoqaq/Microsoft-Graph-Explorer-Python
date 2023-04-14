@@ -1,0 +1,5 @@
+adal==1.2.6
+msal==1.0.0
+PyYAML==5.4.1
+requests==2.25.1
+# For Azure CLI

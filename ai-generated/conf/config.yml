@@ -1,0 +1,9 @@
+main_env:
+  config_folder: "./conf/profiles/"
+  account_list:
+    - user1@contoso.com.yml
+    - user2@contoso.com.yml
+  graph_api_list:
+    - https://graph.microsoft.com/v1.0/me
+    - https://graph.microsoft.com/v1.0/me/drive
+    - https://graph.microsoft.com/v1.0/me/messages
